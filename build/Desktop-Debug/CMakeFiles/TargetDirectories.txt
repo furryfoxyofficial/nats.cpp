@@ -1,3 +1,0 @@
-/home/jay-laptop/NATS/build/Desktop-Debug/CMakeFiles/NATS.dir
-/home/jay-laptop/NATS/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/jay-laptop/NATS/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
