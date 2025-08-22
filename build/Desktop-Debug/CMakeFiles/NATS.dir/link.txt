@@ -1,0 +1,1 @@
+/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/NATS.dir/src/main.cpp.o -o NATS 
