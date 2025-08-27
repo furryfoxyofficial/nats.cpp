@@ -8,7 +8,11 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_C_STANDARD_REQUIRED ON)
 
-set( SRC_MAIN
+set(SRC_MAIN
+    "src/natsSystem.h"
+    "src/natsSystem.cpp"
+    "src/ioFile.h"
+    "src/ioFile.cpp"
     "src/main.cpp"
 )
 
